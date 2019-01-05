@@ -146,7 +146,7 @@ fi
 if [ $kontol = "B" ] || [ $kontol = "b" ]
 then
 clear
-sh Fake-Face.sh
+sh Face.sh
 fi
 
 if [ $kontol = "E" ] || [ $Kontol = "e" ]
