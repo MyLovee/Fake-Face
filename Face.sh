@@ -24,8 +24,8 @@ sleep 2
 clear
 toilet -f future -F gay F a k e - F a c e
 echo $yellow "_______________________________________"
-echo $cyan "Author : InYourMine7"
-echo $purple "Team : 2Easy4Hack Team"
+echo $cyan "Author : MineNol3p"
+echo $purple "Team : Nolep People Crew"
 echo $green "contact : 0895378276565"
 echo $yellow "——————————————————————————————————————"
 echo ""
@@ -125,15 +125,15 @@ then
 clear
 toilet -f future -F gay Info Tolls
 echo""
-echo $yellow "Author : InYourMine7                 "
+echo $yellow "Author : MineNol3p               "
 echo $cyan   "Github : https://github.com/MyLovee "
 echo $yellow "Name Tolls : Fake-Face"
 echo $cyan   "–=My Friends=–"
 echo $yellow "InYourHeart"
 echo $cyan   "InYourNick"
-echo $yellow "InYourZamaludin404"
+echo $yellow "BotakNol3p"
 echo $cyan   "IY×KID"
-echo $yellow "Xlon3ly"
+echo $yellow "XNol3p"
 echo $cyan   "IY×Labil"
 echo $yellow "Wahyu Dhimas/Ogeb"
 echo $cyan   "Tuan Ryu"
