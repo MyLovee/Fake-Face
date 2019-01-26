@@ -24,8 +24,8 @@ sleep 2
 clear
 toilet -f future -F gay F a k e - F a c e
 echo $yellow "_______________________________________"
-echo $cyan "Author : MineNol3p"
-echo $purple "Team : Nolep People Crew"
+echo $cyan "Author : root@./Mine7"
+echo $purple "Team : Cirebon Hacker Team"
 echo $green "contact : 0895378276565"
 echo $yellow "——————————————————————————————————————"
 echo ""
@@ -35,7 +35,7 @@ echo $green "3.Install Tolls Fake-Lovee"
 echo $yellow "99.Info Tolls"
 echo $white "0.Keluar/Exit"
 echo ""
-echo $white"╭─root@InYourMine7~# "
+echo $white"╭─root@./Mine7~# "
 read -p "╰─$" kampang
 
 if [ $kampang = "0" ] || [ $kampang = "00" ]
