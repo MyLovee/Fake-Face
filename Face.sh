@@ -1,5 +1,4 @@
 clear
-clear
 #!/system/xbin/bash
 #ngapain lu bangsat
 #mau record?
@@ -24,8 +23,8 @@ sleep 2
 clear
 toilet -f future -F gay F a k e - F a c e
 echo $yellow "_______________________________________"
-echo $cyan "Author : root@./Mine7"
-echo $purple "Team : Cirebon Hacker Team"
+echo $cyan "Author : root@Mine7"
+echo $purple "Team : Nolep People Crew"
 echo $green "contact : 0895378276565"
 echo $yellow "——————————————————————————————————————"
 echo ""
@@ -35,7 +34,7 @@ echo $green "3.Install Tolls Fake-Lovee"
 echo $yellow "99.Info Tolls"
 echo $white "0.Keluar/Exit"
 echo ""
-echo $white"╭─root@./Mine7~# "
+echo $white"╭─root@Mine7~# "
 read -p "╰─$" kampang
 
 if [ $kampang = "0" ] || [ $kampang = "00" ]
@@ -125,18 +124,19 @@ then
 clear
 toilet -f future -F gay Info Tolls
 echo""
-echo $yellow "Author : MineNol3p               "
+echo $yellow "Author : root@Mine7 / Labib         "
 echo $cyan   "Github : https://github.com/MyLovee "
 echo $yellow "Name Tolls : Fake-Face"
 echo $cyan   "–=My Friends=–"
 echo $yellow "InYourHeart"
-echo $cyan   "InYourNick"
-echo $yellow "BotakNol3p"
+echo $cyan   "Palkon"
+echo $yellow "Botak Nol3p"
 echo $cyan   "IY×KID"
-echo $yellow "XNol3p"
+echo $yellow "Xlon3ly"
 echo $cyan   "IY×Labil"
 echo $yellow "Wahyu Dhimas/Ogeb"
 echo $cyan   "Tuan Ryu"
+echo $yellow "InYourGrzl"
 echo $green
 echo "╭─[B]:Back [E]:Exit "
 echo "|"$yellow
@@ -146,7 +146,7 @@ fi
 if [ $kontol = "B" ] || [ $kontol = "b" ]
 then
 clear
-sh Face.sh
+sh Fake-Face.sh
 fi
 
 if [ $kontol = "E" ] || [ $Kontol = "e" ]
