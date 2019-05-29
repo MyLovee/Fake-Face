@@ -1,10 +1,6 @@
 clear
 #!/system/xbin/bash
-#ngapain lu bangsat
-#mau record?
-#apa faedah nya? biar di bilang mastah?
-#kok gua ngukuk ya
-#lu ngerecord gak bakal ngubah lu jadi mastah goblok
+# Hayo Mau Ngapain :v
 #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 #colors
 blue='\033[34;1m'
@@ -23,9 +19,11 @@ sleep 2
 clear
 toilet -f future -F gay F a k e - F a c e
 echo $yellow "_______________________________________"
-echo $cyan "Author : root@Mine7"
-echo $purple "Team : Nolep People Crew"
+echo $cyan "Author : Mine7"
+echo $purple "Team : SharkXploit"
+echo $cyan "Blog/web : https://sharkxploit.blogspot.com"
 echo $green "contact : 0895378276565"
+echo $purple "IG : Mine7_7"
 echo $yellow "——————————————————————————————————————"
 echo ""
 echo $white "1.Deface"
@@ -124,14 +122,14 @@ then
 clear
 toilet -f future -F gay Info Tolls
 echo""
-echo $yellow "Author : root@Mine7 / Labib         "
+echo $yellow "Author : Mine7 / Labib         "
 echo $cyan   "Github : https://github.com/MyLovee "
 echo $yellow "Name Tolls : Fake-Face"
 echo $cyan   "–=My Friends=–"
 echo $yellow "InYourHeart"
-echo $cyan   "Palkon"
-echo $yellow "Botak Nol3p"
-echo $cyan   "IY×KID"
+echo $cyan   "Loli Syndicate"
+echo $yellow "Yu Srangler"
+echo $cyan   "./Snopunks404"
 echo $yellow "Xlon3ly"
 echo $cyan   "IY×Labil"
 echo $yellow "Wahyu Dhimas/Ogeb"
