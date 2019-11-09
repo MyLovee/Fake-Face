@@ -12,30 +12,42 @@ white='\033[37;1m'
 yellow='\033[33;1m'
 indigo="\033[34;1m"
 clear
-echo "Asslamualaikum Wr Wb"
+echo "welcome :)"
 sleep 1
-echo "Selamat Datang di Tolls Fake-Face"
-sleep 2
 clear
-toilet -f future -F gay F a k e - F a c e
-echo $yellow "_______________________________________"
-echo $cyan "Author : Mine7"
-echo $purple "Team : SharkXploit"
-echo $cyan "Blog/web : https://sharkxploit.blogspot.com"
-echo $green "contact : 0895378276565"
-echo $purple "IG : Mine7_7"
-echo $yellow "——————————————————————————————————————"
+toilet -f future -F gay Tools WebJav 1.2
+echo $white "------------------------------------------------"
+echo $cyan "|Author : '/Mine7                              |"
+echo $purple "|Team : SharkXploiter Crew                     |"
+echo $cyan "|web : www.sharkxploit.tk                      |  "
+echo $red  "|blog : www.blog-sharkxploit.tk                |"
+echo $green "|contact : 0895378276565                       |"
+echo $purple "|IG : Labib wso                                |"
+echo $white "------------------------------------------------"
 echo ""
-echo $white "1.Deface"
-echo $cyan "2.Web vuln"
-echo $green "3.Install Tolls Fake-Lovee"
-echo $yellow "99.Info Tolls"
-echo $white "0.Keluar/Exit"
+echo $white "-----  -----------------------------------"
+echo $cyan  "| 1 |  |       Deface                    | "
+echo $white "-----  -----------------------------------"
+echo $white "-----  -----------------------------------"
+echo $cyan  "| 2 |  |       Webvuln                   | "
+echo $white "----- -----------------------------------"
+echo $white "-----  -----------------------------------"
+echo $cyan  "| 3 |  |       Cara Pakai                | "
+echo $white "----  -----------------------------------"
+echo $white "-----  -----------------------------------"
+echo $cyan  "| 4 |  |       info tools                | "
+echo $white "-----  -----------------------------------"
+echo $white "-----  -----------------------------------"
+echo $cyan  "| 5 |  |       MassDeface                | "
+echo $white "-----  -----------------------------------"
+echo $white "-----  -----------------------------------"
+echo $cyan  "| 6 |  |       Exit/Keluar               | "
+echo $white "-----  -----------------------------------"
 echo ""
 echo $white"╭─root@Mine7~# "
 read -p "╰─$" kampang
 
-if [ $kampang = "0" ] || [ $kampang = "00" ]
+if [ $kampang = "06" ] || [ $kampang = "6" ]
 then
 echo $cyan
 clear
@@ -51,8 +63,9 @@ echo " " $cyan
 read -p "Masukan Web Target : " target;
 echo " "
 sleep 1
-echo $cyan"Masukin Sc depes kalian kalo mau tebas index namain sc nya Index.html"
-echo $yellow"Simpan SC Di Memory Internal Di Luar Folder "
+clear
+echo $cyan"Masukin Sc depes kalian kalo mau tebas index namain sc nya index.html"
+echo $yellow"Simpan SC Di Memory Internal Di Luar Folder"
 echo " "$cyan
 read -p "Masukan Nama Script : " sc;
 sleep 2
@@ -71,6 +84,7 @@ if [ $kampang = "02" ] || [ $kampang = "2" ]
 then
 clear
 toilet -f future -F gay Web Vuln Webdav
+echo "http://inlislitev3.perpusnas.go.id"
 echo "http://contsol.co.za"
 echo "http://colourfactory.co.za"
 echo "http://centraltech.co.za"
@@ -108,37 +122,40 @@ fi
 if [ $kampang = "03" ] || [ $kampang = "3" ]
 then
 clear
-toilet -f future -F gay Menginstall
-pkg update & pkg upgrade
-pkg install figlet
-pkg install git
-git clone https://github.com/MyLovee/Fake-Lovee
-cd Fake-Lovee
-sh Lovee.sh
-fi
-
-if [ $kampang = "99" ] || [ $kampang = "99" ]
-then
-clear
 toilet -f future -F gay Info Tolls
-echo""
-echo $yellow "Author : Mine7 / Labib         "
-echo $cyan   "Github : https://github.com/MyLovee "
-echo $yellow "Name Tolls : Fake-Face"
-echo $cyan   "–=My Friends=–"
-echo $yellow "InYourHeart"
-echo $cyan   "Loli Syndicate"
-echo $yellow "Yu Srangler"
-echo $cyan   "./Snopunks404"
-echo $yellow "Xlon3ly"
-echo $cyan   "IY×Labil"
-echo $yellow "Wahyu Dhimas/Ogeb"
-echo $cyan   "Tuan Ryu"
-echo $yellow "InYourGrzl"
+echo "Pertama Kalian Taro script Deface Kalian di Memomry Internal di luar folder."
+echo "Jika kalian ingin menebas index nya,"
+echo "kalian tinggal ganti saja nama script deface kalian menjadi index.html."
+echo "jika kalian tidak mempunyai script deface," 
+echo "kalian bisa mendownload nya di sini : https://sharkxploit.tk"
+echo "mudah buka  jadi tunggu apa lagi ayo depes :v"
 echo $green
 echo "╭─[B]:Back [E]:Exit "
 echo "|"$yellow
 read -p "╰─[B]/[E] :" kontol
+fi
+
+if [ $kampang = "4" ] || [ $kampang = "4" ]
+then
+clear
+toilet -f future -F gay Info Tolls
+echo""
+echo $white "Name Tools:  Webjav"
+echo $cyan "version : 1.2"
+echo $white "Date Create : 20 september 2019"
+echo $cyan "Author : '/Mine7"
+echo "╭─[B]:Back [E]:Exit "
+echo "|"$yellow
+read -p "╰─[B]/[E] :" kontol
+fi
+
+if [ $kampang = "05" ] || [ $kampang = "5" ]
+then
+echo $cyan
+clear
+figlet "Coming Son Tunggu sadja"
+sleep 2
+sh Face.sh
 fi
 
 if [ $kontol = "B" ] || [ $kontol = "b" ]
@@ -147,11 +164,12 @@ clear
 sh Face.sh
 fi
 
-if [ $kontol = "E" ] || [ $Kontol = "e" ]
+if [ $kontol = "e" ] || [ $Kontol = "E" ]
 then
 clear
 echo $cyan
 clear
 figlet "keluar"
 echo $white "Terimakasi telah menggunakan tols kami semoga berfaedah :)"
+echo $white "Jangn Lupa Share Ke Temen kalian "
 fi
